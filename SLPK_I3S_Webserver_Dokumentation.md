@@ -4,6 +4,8 @@ Diese Dokumentation beschreibt ein praxiserprobtes Vorgehen, um **ArcGIS Scene L
 
 Zusätzlich ist ein Merge-Ansatz (mehrere SLPKs → ein Service) dokumentiert sowie ein lokaler Dev-Server + Web-Viewer für Tests.
 
+<img width="1773" height="946" alt="image" src="https://github.com/user-attachments/assets/5ea68d35-9879-4893-b917-fa3788ce1ee4" />
+
 
 ---
 
